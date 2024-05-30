@@ -8,10 +8,6 @@
 
 
 
-# INTERESTED IN NEXT VIDEO TUTORIAL ON TAX ON BUY/SELL ?
-
-- write me in telegram at @andyxyz1
-
 ## 📖 What You'll Learn Here:
 
 - Creating meme coin tokens 🪙 LEVEL: EASY! 
@@ -28,22 +24,10 @@
 
 ---
 
-## 🛠️ Resources
-
-https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20 
-
-## More tutorials?: https://www.youtube.com/channel/UCTDnHtfRFCCgcVghKsvsx7A?sub_confirmation=1
-
 ## 🚀 Contribute:
 - Found a bug? Have a feature request? Contributions are welcome! 🙌
 - Fork the repo, make your changes, and submit a pull request. 🛠️
 
 ## Disclaimer: the smart contracts are for learning purpuses only. they are not audited and you should do your own reasearch if you plan to publish them live
-
-
-
-# Need an audit or a custom contract?
-
-- write me in telegram at @andyxyz1
 
 ### LICENSE: MIT
